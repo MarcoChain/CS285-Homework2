@@ -1,4 +1,4 @@
-# CS285-Homework2 2020
+# CS285-Homework2 2020 Solution
 
 You can run this code on your own machine or on Google Colab. 
 
